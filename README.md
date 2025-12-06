@@ -26,4 +26,4 @@ BOM:
     -Desoldering pump
     -Tweezers
 
-  110 dollars total
+  90 dollars total
