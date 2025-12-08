@@ -9,21 +9,3 @@ Attached below are the images of my work.
 <img width="853" height="622" alt="Screenshot 2025-12-05 161518" src="https://github.com/user-attachments/assets/c5be37f3-beae-4809-8c5f-4de2a648ca76" />
 
 The PCB will fit into the case perfectly, allowing for easy accsess to the OLED display, additionally I would like to screw some clear plastic over the top into the case that is why I have left screw-holes in the corners of the case.
-
-BOM:
-  Custom PCB;
-    -ESP32-C3-DevKitM-1
-    -OLED-128O064D-BPP3N00000
-    -MEMS digital PDM microphone IM69D120
-    -7µF Capacitor
-    -910 kΩ Resistor
-    
-  3D Printed Case
-
-  Soldering Kit
-    -Adjustable temperature soldering iron
-    -Solder wire
-    -Desoldering pump
-    -Tweezers
-
-  90 dollars total
