@@ -14,4 +14,4 @@ Attached below are the images of my work.
 
 
 
-The PCB will fit into the case perfectly, allowing for easy accsess to the OLED display, additionally I would like to screw some clear plastic over the top into the case that is why I have left screw-holes in the corners of the case.
+*note the OLED is not in the screenshots of the finished 3d model as it does not have a 3d model available, and I would have to purchase/create a 3d model. However it does fit, within the case on the PCB as i have measured its dimensions.
