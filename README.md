@@ -8,5 +8,10 @@ Attached below are the images of my work.
 <img width="1292" height="969" alt="Screenshot 2025-12-05 155651" src="https://github.com/user-attachments/assets/13a4f83d-3659-44f2-ae30-4c72790efe8a" />
 <img width="805" height="606" alt="image" src="https://github.com/user-attachments/assets/c448a23a-0387-4c62-a344-8066ff8761e4" />
 
+<img width="815" height="610" alt="image" src="https://github.com/user-attachments/assets/7211e79f-f206-43e0-8207-bf15cc0f4b8d" />
+<img width="900" height="569" alt="image" src="https://github.com/user-attachments/assets/2c209ba7-1eed-4053-9b1f-4bc3226c99e9" />
+
+
+
 
 The PCB will fit into the case perfectly, allowing for easy accsess to the OLED display, additionally I would like to screw some clear plastic over the top into the case that is why I have left screw-holes in the corners of the case.
