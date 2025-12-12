@@ -14,4 +14,4 @@ Attached below are the images of my work.
 
 
 
-*note the OLED is not in the screenshots of the finished 3d model as it does not have a 3d model available, and I would have to purchase/create a 3d model. However it does fit, within the case on the PCB as i have measured its dimensions.
+*note the OLED is not in the screenshots of the finished 3d model as it does not have a 3d model available, and I would have to purchase/create a 3d model. However it does fit, within the case on the PCB as i have measured its dimensions. And no lid is due to this fact, there being no lid is fully intentional.
